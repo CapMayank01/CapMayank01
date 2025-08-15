@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CapMayank01
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning html and css
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning Maths required for ML and also the basic algo required in it
 - 💞️ I’m looking to collaborate on creative ideas 
 - 📫 How to reach me mail me
 - 😄 Pronouns: he/him
